@@ -1,0 +1,12 @@
+.mainForm{
+    display:flex;
+    flex-direction: column;
+    gap: 8px;
+    font-size: 18px;
+
+}
+
+#salutation{
+    width: 20%;
+
+}
