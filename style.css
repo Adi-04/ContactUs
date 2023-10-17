@@ -1,3 +1,7 @@
+*{
+    font-family: 'Inter', sans-serif;
+}
+
 .mainForm{
     display:flex;
     flex-direction: column;
