@@ -2,6 +2,10 @@
     font-family: 'Inter', sans-serif;
 }
 
+.heading{
+    font-weight: bold;
+}
+
 .mainForm{
     display:flex;
     flex-direction: column;
